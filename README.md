@@ -3,4 +3,7 @@
 Function 1  
 ![image](https://github.com/Xujiangjing/github_gif/blob/main/propertyViewer_1.gif)  
 Function 2  
-![image](https://github.com/Xujiangjing/github_gif/blob/main/propertyViewer_2.gif)
+![image](https://github.com/Xujiangjing/github_gif/blob/main/propertyViewer_2.gif)  
+Function 3  
+![image](https://github.com/Xujiangjing/github_gif/blob/main/propertyViewer_3.gif)  
+
