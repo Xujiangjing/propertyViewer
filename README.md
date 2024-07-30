@@ -6,4 +6,6 @@ Function 2
 ![image](https://github.com/Xujiangjing/github_gif/blob/main/propertyViewer_2.gif)  
 Function 3  
 ![image](https://github.com/Xujiangjing/github_gif/blob/main/propertyViewer_3.gif)  
+Function 4  
+![image](https://github.com/Xujiangjing/github_gif/blob/main/propertyViewer_4.gif)
 
