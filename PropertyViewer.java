@@ -92,6 +92,7 @@ public class PropertyViewer
     public void toggleFavourite()
     {
         property.toggleFavourite();
+        gui.showFavourite(property);
     }
     
 
